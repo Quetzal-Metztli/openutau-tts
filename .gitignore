@@ -1,0 +1,14 @@
+
+__pycache__/
+*.pyc
+*.wav
+*.ustx
+*.log
+OpenUtau/bin/
+OpenUtau/obj/
+OpenUtau/OpenUtau.Render/bin/
+OpenUtau/OpenUtau.Render/obj/
+OpenUtau/OpenUtau.Core/bin/
+OpenUtau/OpenUtau.Core/obj/
+OpenUtau/OpenUtau.Plugin.Builtin/bin/
+OpenUtau/OpenUtau.Plugin.Builtin/obj/
